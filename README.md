@@ -54,7 +54,7 @@ Among a team of 5 members, I was responsible for integrating the 3 APIs together
 
 Without my amazing team, BestVoice would always be just an idea. We all worked so hard and slept for 2-3 hours to make sure that we deliver our demo to the judges and the audience. Each team member had a role and by working together we were qualified for the Final round and received 5th place among 44 teams!
 
-<img src="GroupPhoto.png width="250" height="500">
+<img src="GroupPhoto.png" width="550" height="450">
 
 
 
