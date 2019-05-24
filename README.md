@@ -6,7 +6,7 @@ BestVoice is a mobile web app designed to provide Best Buy customers with a pers
 
 Simply follow these steps to ask questions in your own language:
 
-1. Select a language you want to speak in
+1. Select a language you want to speak in (Currently available only in Chinese and French)
 2. Select a product category which you have questions about
 3. You will then be prompted to meet a Best Buy representative at aisle #
 4. Once you are with the Best Buy representative, simply tab the bar to start speaking in your own language
